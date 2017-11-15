@@ -21,7 +21,7 @@ The https Server with Security, Caching and automatic Certificate renewal
 ```go
 package main
 import (	
-  "eugen"	
+  "github.com/Bhei/eugen/eugen"	
   "net/http"
 )
 
